@@ -158,5 +158,3 @@ ntlmrelayx.py -tf targets.txt -smb2support
 - In real operations: SMB is the **primary lateral movement highway**
 
 ---
-
-*← [SNMP](02-snmp.md) | Back to [README](../../README.md) | Next: [DNS Zone Transfer →](04-dns-zone-transfer.md)*
