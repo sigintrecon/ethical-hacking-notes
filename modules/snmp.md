@@ -156,5 +156,3 @@ Complete network map — without touching a single machine
 - v1/v2c = weak (no encryption), v3 = secure
 
 ---
-
-*← [NetBIOS](01-netbios.md) | Back to [README](../../README.md) | Next: [SMB →](03-smb.md)*
