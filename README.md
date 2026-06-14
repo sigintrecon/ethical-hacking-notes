@@ -106,7 +106,7 @@ PHASE 4 — RED TEAM OPS (Coming Soon)
 | 04 | DNS Zone Transfer | Subdomain Discovery, Recon | [dns-zone-transfer.md](modules/01-network-enumeration/04-dns-zone-transfer.md) |
 | 05 | LDAP | AD Enumeration, User Harvesting | [ldap.md](modules/01-network-enumeration/05-ldap.md) |
 | 06 | NFS/RPC | File System Access, Info Disclosure | [nfs-rpc.md](modules/01-network-enumeration/06-nfs-rpc.md) |
-| 07 | OS Fingerprinting | Target Profiling, Exploit Selection | [os-fingerprinting.md](modules/01-network-enumeration/07-os-fingerprinting.md) |
+| 07 | OS Fingerprinting | Target Profiling, Exploit Selection | [os-fingerprinting.md](modules/07-os-fingerprinting.md) |
 
 ### Module 2 — Active Directory
 
