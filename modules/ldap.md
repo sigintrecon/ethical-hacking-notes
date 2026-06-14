@@ -166,5 +166,3 @@ One authenticated LDAP session reveals:
 - Critical use: Finding Kerberoastable accounts via SPN queries
 
 ---
-
-*← [DNS Zone Transfer](04-dns-zone-transfer.md) | Back to [README](../../README.md) | Next: [NFS/RPC →](06-nfs-rpc.md)*
